@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-Welcome to my Github profile. I am a Junior Full-Stack Developer☼
+Welcome to my Github profile. I am a Junior Full-Stack Developer💻
 
-💻 Full-Stack Developer   
 🎓 Graduate from Le Wagon AI Software Development Bootcamp  
 🌍 Based in Montreal | Open to local & remote opportunities  
 
