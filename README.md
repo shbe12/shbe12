@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**shbe12/shbe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile. I am a Junior Full-Stack Developer☼
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer   
+🎓 Graduate from Le Wagon AI Software Development Bootcamp  
+🌍 Based in Montreal | Open to local & remote opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⚙️What I use :
+.rb, .js, .html, .css, .sql, APIs, Git, GitHub, SCSS  
+
+🧠 Exploring:
+AI (LLMs, AI agents), backend systems, real-time applications  
+
+🚀 Projects:
+Built ChairHop — a web app for last-minute salon bookings  
+→ Developed an AI assistant to help users find appointments faster  
+
+🌐 Languages:
+French, English, Haitian Creole (fluent)  
+Italian, Spanish (understanding)  
+
+---
+
+💡 About me
+
+
+I’m naturally curious, which influences how I approach communication, systems, and user interaction.
+
+I am structured in my approach—I take time to fully understand how things work, review concepts deeply, and make sure every part of a system is working properly.
+
+I enjoy working on backend logic and AI-powered features, and I’m always looking for ways to improve and optimize what I build.
+
+---
+
+🤝 I like:
+- Structured & collaborative environments  
+- Improving systems and workflows  
+- Learning deeply (even if it takes multiple passes)  
+
+---
+
+💬 Ask me about:
+Full-stack development, backend logic, AI assistants, or improving user experience  
+
+📫 Find me here:
+LinkedIn:https://www.linkedin.com/in/sherline-bertrand-20b210197/
