@@ -45,4 +45,4 @@ I enjoy working on backend logic and AI-powered features, and I’m always looki
 Full-stack development, backend logic, AI assistants, or improving user experience  
 
 📫 Find me here:
-LinkedIn:https://www.linkedin.com/in/sherline-bertrand-20b210197/
+LinkedIn:https://www.linkedin.com/in/sherline-bertrand/
