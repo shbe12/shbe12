@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** focused on building
 
 **Backend:** Ruby on Rails, PostgreSQL
 
-**AI & LLMs:** OpenAI API, Prompt Engineering, Context Engineering
+**AI & LLMs:** LLM, Prompt Engineering, Context Engineering
 
 **Cloud & Tools:** AWS EC2, Kamal, Docker, Git, GitHub, Vite, Heroku, Cloudinary, Claude
 
