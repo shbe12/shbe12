@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** focused on building
 
 **Frontend:** JavaScript, HTML, CSS, Bootstrap
 
-**Backend:** Ruby on Rails, PostgreSQL
+**Backend:** Ruby on Rails, Python
 
 **AI & LLMs:** LLM, Prompt Engineering, Context Engineering
 
