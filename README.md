@@ -9,13 +9,13 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** focused on building
 
 ## ⚙️ Tech Stack
 
-**Frontend:** React, JavaScript, HTML, CSS, Bootstrap
+**Frontend:** JavaScript, HTML, CSS, Bootstrap
 
 **Backend:** Ruby on Rails, PostgreSQL
 
 **AI & LLMs:** LLM, Prompt Engineering, Context Engineering
 
-**Cloud & Tools:** AWS EC2, Kamal, Docker, Git, GitHub, Vite, Heroku, Cloudinary, Claude
+**Cloud & Tools:** AWS EC2, Kamal, Docker, Git, GitHub, Heroku, Cloudinary, Claude
 
 **Realtime:** WebSockets, Action Cable
 
