@@ -38,10 +38,9 @@ A two-sided salon booking marketplace connecting clients with independent stylis
 
 My main contribution was **HOPPS**, an AI assistant that helps users find appointments conversationally and guides stylists through the platform.
 
-* Integrated GPT-4o through the OpenAI API
-* Applied prompt and context engineering
+* Backend and frontend of chat with Rails 8.1, PostgreSQL, Hotwire, and Devise 
+* Applied prompt engineering
 * Built real-time features using WebSockets and Action Cable
-* Implemented Square payment flows
 
 ---
 
