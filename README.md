@@ -1,21 +1,25 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a **Full-Stack Developer** focused on building user-centered web applications and AI-powered features.
+I'm **Sherline**, a **Full-Stack Developer** who builds and validates web applications with **Ruby on Rails**, **Python**, and **PostgreSQL**, and integrates AI into real products.
 
 🎓 **Le Wagon AI Software Development Bootcamp**
-🌍 **Based in Montreal | Open to local & remote opportunities**
+🌍 **Based in Montreal | Open to local & remote opportunities in backend and full-stack development**
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Frontend:** JavaScript, HTML, CSS, Bootstrap
+**Backend:** Ruby on Rails, Python, FastAPI, SQLAlchemy, Pydantic
 
-**Backend:** Ruby on Rails, Python
+**Databases:** PostgreSQL, SQL, SQLite, Supabase
 
-**AI & LLMs:** LLM, Prompt Engineering, Context Engineering
+**Frontend:** JavaScript, TypeScript, HTML, CSS, Bootstrap, Hotwire (Turbo / Stimulus), React
 
-**Cloud & Tools:** AWS EC2, Kamal, Docker, Git, GitHub, Heroku, Cloudinary, Claude
+**Testing:** Minitest, pytest, unit testing, business rule validation, debugging
+
+**AI & LLMs:** LLM integration, RAG, prompt engineering, context engineering, Claude API, Gemini API, OpenAI GPT-4o, Claude Code
+
+**Cloud & Tools:** Docker, Kamal, AWS EC2, Heroku, Vercel, Git, GitHub
 
 **Realtime:** WebSockets, Action Cable
 
@@ -23,59 +27,69 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** focused on building
 
 ## 🚀 Projects
 
-### **Present** *(Primary Project)*
+### **Present** *(Primary Project · In Progress)*
 
-An admin-only attendance and finance management platform for groups and organizations.
+A full-stack attendance and financial management app for community organizations: churches, social clubs, sports teams, and similar groups.
 
-* Built with Rails 8.1, PostgreSQL, Hotwire, and Devise
-* Automated attendance-based billing and member balances
-* Live dashboard updates using Turbo Streams
-* Deployed to AWS EC2 with Kamal and Docker
+* Implemented business rules that automatically generate charges for late and no-show attendance
+* Added validation logic to prevent duplicate charges and keep member balances accurate
+* Wrote backend unit tests with Minitest and tested edge cases across attendance, billing, payment, and balance workflows
+* Deployed to AWS EC2 with Kamal, Docker, and PostgreSQL
 
-### **ChairHop** *(Team Project)*
+`Rails 8.1` `PostgreSQL` `Minitest` `Hotwire` `Devise` `Solid Queue` `Docker` `Kamal` `AWS EC2`
 
-A two-sided salon booking marketplace connecting clients with independent stylists.
+### **Review** *(In Progress)*
 
-My main contribution was **HOPPS**, an AI assistant that helps users find appointments conversationally and guides stylists through the platform.
+A full-stack web app where users share and rate experiences they've tried, like hiking or kayaking.
 
-* Backend and frontend of chat with Rails 8.1, PostgreSQL, Hotwire, and Devise 
-* Applied prompt engineering
-* Built real-time features using WebSockets and Action Cable
+* Built a REST API with FastAPI to create and retrieve users and reviews
+* Modelled a one-to-many user → reviews relationship with SQLAlchemy
+* Validated data with Pydantic schemas (1–5 rating limits, email validation)
+* Rendered server-side pages with Jinja2 and Bootstrap
+* Built custom error handling: JSON for API clients, friendly HTML pages for visitors
+
+`Python` `FastAPI` `SQLAlchemy` `SQLite` `Pydantic` `Jinja2` `Bootstrap`
+
+### **ChairHop** *(Team Project · Le Wagon)*
+
+A two-sided salon booking marketplace connecting clients with independent hair stylists.
+
+My main contribution was **HOPPS**, an AI assistant that helps clients find appointments and guides stylists through the platform.
+
+* Built the chat's backend and frontend with Rails, PostgreSQL, and Hotwire
+* Built real-time features with Action Cable and WebSockets
+* Integrated GPT-4o via RubyLLM and applied prompt engineering for appointment discovery
+* Worked on booking workflows involving multiple business rules and user roles
+
+`Rails 7.1` `PostgreSQL` `pgvector` `GPT-4o` `RubyLLM` `Action Cable` `Hotwire` `Pundit`
+
+### 🤖 **AI Agents** *(built with Claude Code under my supervision)*
+
+I defined the requirements, directed the work phase by phase, and tested each feature both with Claude and manually in the browser.
+
+* **AI Mock Interview Agent:** resume-aware interviewer that runs a five-phase adaptive mock interview over text or voice, then scores each phase and generates a report. `FastAPI` `React` `Claude API` `ElevenLabs` `Supabase` `pytest` `Playwright`
+* **Email Agent:** Gmail reply agent that drafts answers to course inquiries using RAG over a 150-course catalogue. Nothing is sent automatically; every draft is reviewed and approved by a human. `Next.js` `TypeScript` `Supabase pgvector` `Gemini API` `Gmail API` `Google OAuth`
 
 ---
 
 ## 🧠 Currently Exploring
 
-* AI agents
-* LLM application development
+* AI agents and LLM application development
 * Backend architecture
+* Testing and validating software behavior
 * Real-time systems
 
 ---
 
 ## 🌐 Languages
 
-* French
-* English
-* Haitian Creole
-* Spanish (understanding)
+French · English · Haitian Creole (fluent) · Spanish (understanding)
 
 ---
 
 ## 💡 About Me
 
-I'm naturally curious and enjoy understanding how systems work from end to end.
-
-I like building backend systems, integrating AI into real applications, and creating software that improves user workflows. I value writing maintainable code, continuously learning, and collaborating with others to solve meaningful problems.
-
----
-
-## 🤝 I Enjoy
-
-* Building products from idea to deployment
-* Improving systems and developer workflows
-* Learning new technologies through hands-on projects
-* Collaborating on user-focused applications
+I'm naturally curious and enjoy understanding how systems work from end to end. I like building backend systems, integrating AI into real applications, and making sure software behaves the way it should, especially around tricky business rules and edge cases. I value maintainable code, continuous learning, and collaborating with others to solve meaningful problems.
 
 ---
 
