@@ -42,9 +42,10 @@ A full-stack attendance and financial management app for community organizations
 
 A full-stack web app where users share and rate experiences they've tried, like hiking or kayaking.
 
-* Built a REST API with FastAPI to create and retrieve users and reviews
-* Modelled a one-to-many user → reviews relationship with SQLAlchemy
-* Validated data with Pydantic schemas (1–5 rating limits, email validation)
+* Built a REST API with FastAPI providing full CRUD (create, read, update, delete) for users and reviews
+* Modelled a one-to-many user → reviews relationship with SQLAlchemy, including cascade deletion
+* Converted the database layer to async SQLAlchemy, using eager loading to avoid N+1 queries
+* Validated data with Pydantic schemas (1–5 rating limits, email validation, partial updates)
 * Rendered server-side pages with Jinja2 and Bootstrap
 * Built custom error handling: JSON for API clients, friendly HTML pages for visitors
 
